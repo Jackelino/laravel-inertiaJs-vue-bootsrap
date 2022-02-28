@@ -1,3 +1,35 @@
+## Installation
+Steps to follow for getting started with the template:
+
+1. Start command prompt window or terminal and change directory laravel
+```
+cd laravel-inertiaJs-vue-bootsrap
+```
+
+2. Install node_modules Run in terminal or CMD:
+```
+npm install
+```
+
+3. Install vendor Run in terminal or CMD:
+```
+composer install
+```
+4. To build css and js for Run in terminal or CMD:
+```
+npm run dev Or npm run build Or npm run watch
+```
+
+5. Copy .env.example to .env file
+```
+cp .env.example .env
+```
+
+6. Generate Key for project in terminal or CMD:
+```
+php artisan key:artisan
+```
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
